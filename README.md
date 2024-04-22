@@ -1,5 +1,5 @@
 
-![CC Graphics 2024_Variables](https://github.com/csae-coders-corner/Looping-over-all-combinations-of-a-variable-list/assets/148211163/e2e2a2ec-24dd-43e8-b445-e275d71d4d32)
+![CC Graphics 2024_Variables2](https://github.com/csae-coders-corner/Looping-over-all-combinations-of-a-variable-list/assets/148211163/fb1ba0b5-3c36-4c88-8c1b-a92affb259fb)
 
 # Looping-over-all-combinations-of-a-variable-list
 A researcher may want to run some analysis on all combinations of a specific list of variables. This may be of interest, for example, in order to select the combination of controls to use in a model out of a larger pool of candidate variables based on a criteria of interest (e.g., R-squared). 
